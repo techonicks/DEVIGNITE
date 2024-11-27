@@ -1,0 +1,43 @@
+# Object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+
+# Debug files
+*.dbg
+*.pdb
+
+# Library files
+*.lib
+*.a
+*.so
+*.dll
+
+# Header files (if generated)
+*.h
+*.hpp
+
+# Compiler output
+*.s
+*.asm
+
+# Editor/IDE files
+*.swp
+*.swo
+*.swn
+*.sus
+*.suo
+*.ncb
+*.cache
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Other
+*.bak
+*.tmp
+*.log
