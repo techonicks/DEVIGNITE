@@ -1,7 +1,6 @@
 Signup
 About
 Product
-Product
 Pricing
 Support
 
