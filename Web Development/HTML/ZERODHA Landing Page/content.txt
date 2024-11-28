@@ -1,0 +1,21 @@
+Signup
+About
+Product
+Product
+Pricing
+Support
+
+
+Invest in everything
+Online platform to invest in stocks, derivatives, mutual funds, and more
+
+Sign up now
+
+
+`
+background : #387ed1
+color: #666
+color: rgb(66, 66, 66);
+cursor: pointer;
+
+`
