@@ -1,4 +1,8 @@
 # DEVIGNITE 
+
+<img src="./devignite.jpeg"/>
+<br/>
+
 **📢 ANNOUNCEMENT: DEVIGNITE IS HERE!**
 
 The Tech-O-Nicks proudly presents **`DEVIGNITE`** – a dynamic seminar that sparks innovation and empowers your coding skills!
