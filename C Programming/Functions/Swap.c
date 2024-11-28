@@ -13,10 +13,10 @@ int main(){
 
     printf("Before swap x = %d, y = %d\n",x,y);
 
-    // swap_2(x,y); // pass by value
-    swap(&x,&y); // Pass by address
+    swap_2(x,y); // pass by value
+    // swap(&x,&y); // Pass by address
 
-    printf("Before swap x = %d, y = %d\n",x,y);
+    printf("After swap x = %d, y = %d\n",x,y);
 
     return 0;
 }
